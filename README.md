@@ -1,0 +1,1 @@
+This is the Hospital Management System using Php and MySql.
