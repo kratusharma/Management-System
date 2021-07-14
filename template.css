@@ -1,0 +1,54 @@
+div.template {
+  width: 100%;
+  border: 10px solid gray;
+}
+
+header {
+  padding: 1em;
+  color: white;
+  background-color: rgb(40, 137, 154);
+  clear: left;
+  text-align: center;
+  margin: 5;
+}
+
+subheader {
+  padding: 1em;
+  color: white;
+  background-color: rgb(40, 137, 154);
+  clear: left;
+  text-align: center;
+  margin: 5;
+}
+
+footer {
+  padding: 1em;
+  color: black;
+  background-color: rgb(40, 137, 154);
+  clear: left;
+  text-align: center;
+  margin: 5;
+}
+
+login {
+  float: left;
+  max-width: 160px;
+  margin: 2;
+  padding: 4em;
+}
+
+login ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+login ul a {
+  text-decoration: none;
+}
+
+article {
+  margin-left: 170px;
+  border-left: 1px solid gray;
+  padding: 1em;
+  overflow: hidden;
+}
