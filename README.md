@@ -17,3 +17,19 @@ It is basically a [DBMS Web-based project] with both admin and user layouts.
 
 
 # Home Page
+!.[Home Page](https://github.com/kratusharma/Management-System/blob/master/Project%20Images/Main%20Page.PNG)
+
+# Admin Page
+!.[Admin Page](https://github.com/kratusharma/Management-System/blob/master/Project%20Images/Admin.PNG)
+
+# Doctor Page
+!.[Doctor Page](https://github.com/kratusharma/Management-System/blob/master/Project%20Images/Admin.PNG)
+
+# Insert Patient
+!.[Insert Patient](https://github.com/kratusharma/Management-System/blob/master/Project%20Images/insert%20patient.PNG)
+
+# User Login
+!.[User Login](https://github.com/kratusharma/Management-System/blob/master/Project%20Images/User%20Login.PNG)
+
+# Update Patient
+!.[Update Patient](https://github.com/kratusharma/Management-System/blob/master/Project%20Images/update%20patient.PNG)
